@@ -7,4 +7,39 @@
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
+   <Group
+      location = "group:Pods"
+      name = "Targets Support Files">
+      <Group
+         location = "group:Pods/Target Support Files/Pods-RxSwift_Demo"
+         name = "Pods-RxSwift_Demo">
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-RxSwift_Demo/Pods-RxSwift_Demo.modulemap">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-RxSwift_Demo/Pods-RxSwift_Demo-acknowledgements.markdown">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-RxSwift_Demo/Pods-RxSwift_Demo-acknowledgements.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-RxSwift_Demo/Pods-RxSwift_Demo-dummy.m">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-RxSwift_Demo/Pods-RxSwift_Demo-frameworks.sh">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-RxSwift_Demo/Pods-RxSwift_Demo-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-RxSwift_Demo/Pods-RxSwift_Demo-umbrella.h">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-RxSwift_Demo/Pods-RxSwift_Demo.debug.xcconfig">
+         </FileRef>
+         <FileRef
+            location = "group:Pods/Target Support Files/Pods-RxSwift_Demo/Pods-RxSwift_Demo.release.xcconfig">
+         </FileRef>
+      </Group>
+   </Group>
 </Workspace>
